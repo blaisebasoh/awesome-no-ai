@@ -20,12 +20,18 @@ This is a list of softwares with zero [generative AI](https://en.wikipedia.org/w
 ### Digital Illustration
   - [Krita](https://krita.org/en/) - A free and open source digital painting sofware for painters, animators, comic book/manga creators etc.
   - [PixieEditor](https://pixieditor.net/)
+  - [Paint.NET](https://paint.net/)
+  - [FileAlpaca](https://firealpaca.com/)
+
+### Animation 
+  - [Tahoma2D](https://tahoma2d.org/)
+  - [OpenToonz](https://opentoonz.org/)
+  - [Blender Grease Pencil](https://blender.org/)
 
 ### Pixel Art
   - [Aseprite]()
   - [Libresprite]()
-  - [Piskel](https://www.piskelapp.com/)
-
+  - [Piskel](https://www.piskelapp.com/) - Paint.NET is image and photo editing software for PCs that run Windows. Paint.NET is exclusive to Windows only
 
 ### Browsers
   - [Librewolf](https://librewolf.net/) - A custom version of Firefox, focused on privacy, security and freedom. Firefox without the opt-out AI features
