@@ -43,6 +43,7 @@ This is a list of softwares with zero [generative AI](https://en.wikipedia.org/w
   - [Notepad++](https://notepad-plus-plus.org/)
   - [Sublime Text](https://www.sublimetext.com/)
   - [Emacs](https://www.gnu.org/software/emacs/) - A text editor a certain group of programmers use. ` who uses this?.. please just use vim 😐`
+  - [Glim](https://github.com/NeoPanic/Glim) - MIT-licensed macOS file viewer and basic UTF-8 text editor, with Markdown, document and Git-diff previews.
 
 ### Desktop Publishing
   - [Scribus](https://www.scribus.net/)
